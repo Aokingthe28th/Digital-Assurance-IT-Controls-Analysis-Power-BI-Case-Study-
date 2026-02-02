@@ -1,0 +1,2 @@
+# Digital-Assurance-IT-Controls-Analysis-Power-BI-Case-Study-
+An end-to-end digital assurance case study combining business analytics with IT General Controls (ITGC) testing. The project involved analysing insurance claims data in Power BI to identify risk concentration and trends, alongside auditing user access management and password policy configurations (joiners, leavers, movers, and system parameters). 
